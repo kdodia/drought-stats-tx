@@ -1,4 +1,4 @@
-drought-stats-tx
-================
+Texas Drought Statistics
+=====
 
-Drought statistics for Texas.
+Source: http://droughtmonitor.unl.edu/MapsAndData/DataTables.aspx?TX
